@@ -10,14 +10,14 @@ My preferred flow would be focusing on different asset classes:
 - FX Training Manual by Barclays
 
 2. Fixed-Income
-- The handbook of fixed income
+- The Handbook of Fixed Income Securities
 
 3. Options
-Natenburg
-Hull
+- Option volatility and pricing strategies: Sheldon Natenberg
+- Options, Futures, and Other Derivatives: John C. Hull
 
 4. Commodiites
-Commodities demysitfied
+- Commodities demysitfied
 
 More advanced Books:
 foreign exchange option pricing by Clarke
