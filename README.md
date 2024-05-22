@@ -5,7 +5,7 @@ For now, this compliation would be markets-focused. My recommended option to rea
 
 My preferred flow would be focusing on different asset classes:
 
-1, Forex
+1. Forex
 https://www.babypips.com/
 FX Training Manual by Barclays
 
